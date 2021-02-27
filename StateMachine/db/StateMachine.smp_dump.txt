@@ -1,0 +1,6 @@
+
+State Machine - |StateMachine|StateVariable
+Name StateVariable.State3 StateVariable.State2 StateVariable.State1 
+StateVariable.State1 0 0 0 
+StateVariable.State2 0 1 1 
+StateVariable.State3 1 0 1 
